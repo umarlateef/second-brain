@@ -12,7 +12,7 @@ permalink: /
 
 Hello, This is my knowledge garden when I'll share my thoughts, learning, and things that I want to learn
 
-[Projects](https://umarlateef.github.io/second-brain/project)  
+[Projects](Spaces/project)  
 [Areas](https://umarlateef.github.io/second-brain/area)  
 [Resources](https://umarlateef.github.io/second-brain/resources)  
 [Archives](https://umarlateef.github.io/second-brain/archive)
