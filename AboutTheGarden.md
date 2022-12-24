@@ -1,7 +1,7 @@
 ---
 comments: true
 date created: 2022-08-06
-date modified: 2022-11-12
+date modified: 2022-12-23
 id: home
 layout: page
 title: AboutTheGarden
@@ -12,10 +12,7 @@ permalink: /
 
 Hello, This is my knowledge garden when I'll share my thoughts, learning, and things that I want to learn
 
-[[About Project]]
-[[About Area]]
-[[About Resource]]
-[[About Archive]]
-
-
-
+[Projects](https://umarlateef.github.io/second-brain/project)  
+[Areas](https://umarlateef.github.io/second-brain/area)  
+[Resources](https://umarlateef.github.io/second-brain/resources)  
+[Archives](https://umarlateef.github.io/second-brain/archive)
