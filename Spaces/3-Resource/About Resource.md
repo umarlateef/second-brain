@@ -7,3 +7,4 @@ dg-home: true
 dg-publish: true
 permalink: /resources
 ---
+Resources goes here

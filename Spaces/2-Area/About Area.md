@@ -7,3 +7,4 @@ dg-home: true
 dg-publish: true
 permalink: /area
 ---
+Areas goes here
