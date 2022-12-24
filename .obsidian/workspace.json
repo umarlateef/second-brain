@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AboutTheGarden.md",
+                "file": "Spaces/1-Project/About Project.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AboutTheGarden.md"
+                "file": "Spaces/1-Project/About Project.md"
               }
             }
           },
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AboutTheGarden.md",
+                "file": "Spaces/1-Project/About Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "AboutTheGarden.md",
+                "file": "Spaces/1-Project/About Project.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AboutTheGarden.md",
+                "file": "Spaces/1-Project/About Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,15 +235,15 @@
   },
   "active": "069f925708aeeaa1",
   "lastOpenFiles": [
+    "Spaces/2-Area/About Area.md",
+    "Spaces/3-Resource/About Resource.md",
+    "Spaces/4-Archive/About Archive.md",
+    "Spaces/About Spaces.md",
+    "AboutTheGarden.md",
     "Extras/Draws/README 2022-08-21.svg",
     "Extras/Canvas/About Canvas.md",
     "Extras/Canvas/🧩白板canvas-示意图.canvas",
     "Atlas/About Atlas.md",
-    "Atlas/TOCs/§ TOCs.md",
-    "Atlas/MOCs/∑ MOCs.md",
-    "Atlas/Dataviews/Daily notes汇总.md",
-    "Atlas/Dataviews/∑ 本库Dataview汇总.md",
-    "Atlas/Dataviews/Index for Sources.md",
-    "Atlas/Dataviews/MOC文件汇总.md"
+    "Atlas/TOCs/§ TOCs.md"
   ]
 }
