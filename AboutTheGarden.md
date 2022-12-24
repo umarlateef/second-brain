@@ -12,5 +12,10 @@ permalink: /
 
 Hello, This is my knowledge garden when I'll share my thoughts, learning, and things that I want to learn
 
+[[About Project]]
+[[About Area]]
+[[About Resource]]
+[[About Archive]]
+
 
 

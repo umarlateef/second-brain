@@ -19,9 +19,12 @@
             "id": "069f925708aeeaa1",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Extras/Draws/README 2022-08-21.svg"
+                "file": "AboutTheGarden.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           },
@@ -97,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Extras/Draws/README 2022-08-21.svg"
+                "file": "AboutTheGarden.md"
               }
             }
           },
@@ -107,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Extras/Draws/README 2022-08-21.svg",
+                "file": "AboutTheGarden.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +122,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Extras/Draws/README 2022-08-21.svg",
+                "file": "AboutTheGarden.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -154,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Extras/Draws/README 2022-08-21.svg",
+                "file": "AboutTheGarden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,6 +235,7 @@
   },
   "active": "069f925708aeeaa1",
   "lastOpenFiles": [
+    "Extras/Draws/README 2022-08-21.svg",
     "Extras/Canvas/About Canvas.md",
     "Extras/Canvas/🧩白板canvas-示意图.canvas",
     "Atlas/About Atlas.md",
@@ -240,7 +244,6 @@
     "Atlas/Dataviews/Daily notes汇总.md",
     "Atlas/Dataviews/∑ 本库Dataview汇总.md",
     "Atlas/Dataviews/Index for Sources.md",
-    "Atlas/Dataviews/MOC文件汇总.md",
-    "Atlas/Dataviews/本库的宏观统计数据.md"
+    "Atlas/Dataviews/MOC文件汇总.md"
   ]
 }
