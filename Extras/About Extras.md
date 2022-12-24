@@ -5,11 +5,6 @@ tags: 本库教程
 title: About Extras
 ---
 
-up:: [[ACCESS 笔记组织法]]
-
-[[图片保存：图床or本地]]
-
-## 原文解释
 
 Think of the Extras folder as the toolbox for your notes. 
 
