@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Age Verification Form</title>
+  </head>
+  <body>
+    <h1>Age Verification Form</h1>
+    <form>
+      <label for="name">Name:</label>
+      <input type="text" id="name" name="name">
+      <br><br>
+      <label for="age">Age:</label>
+      <input type="number" id="age" name="age">
+      <br><br>
+      <label for="address">Address:</label>
+      <input type="text" id="address" name="address">
+      <br><br>
+      <label for="phone">Phone Number:</label>
+      <input type="text" id="phone" name="phone">
+      <br><br>
+      <button type="button" id="submit">Submit</button>
+    </form>
+    <div id="error"></div>
+    <script>
+      document.getElementById("submit").addEventListener("click", function() {
+        const name = document.getElementById("name").value;
+        const age = parseInt(document.getElementById("age").value);
+        const address = document.getElementById("address").value;
+        const errorMessage = document.getElementById("error");
+        errorMessage.innerHTML = "";
+        
+        if (age < 18) {
+          errorMessage.innerHTML += "Error: You are under age.<br>";
+        }
+        
+        if (name[0] === "M") {
+          errorMessage.innerHTML += "Error: People with names starting with 'M' are not allowed.<br>";
+        }
+        
+        if (address.includes("California")) {
+          errorMessage.innerHTML += "Error: People from California are not allowed.<br>";
+        }
+      });
+    </script>
+  </body>
+</html>

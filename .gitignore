@@ -43,3 +43,5 @@ publish.js
 *.xlsx
 *.doc
 *.docx
+.obsidian/plugins/obsidian-hypothesis-plugin/data.json
+.obsidian/workspace.json
